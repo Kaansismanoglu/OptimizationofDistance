@@ -191,4 +191,6 @@ Rota 24:
   4. Adım: Alsancak, 35220 Konak/İzmir, Türkiye --> Taksim Square, Şehit Muhtar, 34435 Beyoğlu/İstanbul, Türkiye, Mesafe: 475 km, Süre: 4 hours 40 mins
   5. Adım: Taksim Square, Şehit Muhtar, 34435 Beyoğlu/İstanbul, Türkiye --> Kızılay, 06420 Çankaya/Ankara, Türkiye, Mesafe: 442 km, Süre: 4 hours 40 mins
   6. Adım: Kızılay, 06420 Çankaya/Ankara, Türkiye --> Ankara, Türkiye, Mesafe: 3.2 km, Süre: 7 mins
-  Toplam Süre: 1277 dakika 13 saniye![image](https://github.com/Kaansismanoglu/OptimizationofDistance/assets/125768363/648a1497-8b9e-45b7-98ef-63360386ad4d)
+  Toplam Süre: 1277 dakika 13 saniye
+
+![image](https://github.com/Kaansismanoglu/OptimizationofDistance/assets/125768363/648a1497-8b9e-45b7-98ef-63360386ad4d)
