@@ -4,7 +4,7 @@ import itertools
 
 
 # Google Maps API anahtarınızı buraya girin
-API_KEY = 'AIzaSyBFsVou9cjdp6q_m2mLKqKk0Eo_6z-8Mp8'
+API_KEY = 'Buraya Anahtarınız Gelecek'
 
 # Hedef konumları ve başlangıç konumu
 locations = [
